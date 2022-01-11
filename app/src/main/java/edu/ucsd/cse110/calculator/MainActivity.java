@@ -16,7 +16,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         // There is a bug in this function! One of your exercises is to find it!
 
-        // Hello world this is a new commentt!
+        // Hello world this is a new comment!
+        // !
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
